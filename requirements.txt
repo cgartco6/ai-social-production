@@ -1,0 +1,8 @@
+openai
+requests
+celery
+redis
+psycopg2-binary
+sqlalchemy
+stripe
+flask
